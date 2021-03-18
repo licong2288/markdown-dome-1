@@ -12,4 +12,23 @@
 
 近期的目标是:
 1. 学好前端
-2. 考下英语六级证
+2. 考下英语六级证书
+
+
+给大家写一段html代码
+~~~~
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   这是第一个html页面 
+</body>
+</html>
+~~~~
+
+`var a;`
